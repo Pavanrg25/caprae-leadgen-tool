@@ -2,7 +2,7 @@
 
 ## Objective
 
-Build a simple lead generation tool within 5 hours to demonstrate the ability to understand business needs, develop technical solutions, and produce actionable output.
+Build a simple lead generation tool to demonstrate the ability to understand business needs, develop technical solutions, and produce actionable output.
 
 ## Approach
 
